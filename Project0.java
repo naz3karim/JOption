@@ -1,5 +1,4 @@
-//#Your name
-//#Lab Section
+
 import javax.swing.*;//importing all libraries of swing for user interface
 public class Project0 {//making class
 
